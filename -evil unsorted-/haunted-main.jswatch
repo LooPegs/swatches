@@ -1,0 +1,661 @@
+[ {
+  "id" : 4892,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 4890,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 0,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 4890,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 9,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 4890,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 1,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 4993,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 4,
+  "zoom" : 555,
+  "name" : "Mineral vein",
+  "root" : false
+}, {
+  "id" : 4991,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 4,
+  "zoom" : 555,
+  "name" : "Mineral vein",
+  "root" : false
+}, {
+  "id" : 4991,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 4,
+  "zoom" : 555,
+  "name" : "Mineral vein",
+  "root" : false
+}, {
+  "id" : 637,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 555,
+  "name" : "Mine cart",
+  "root" : false
+}, {
+  "id" : 4992,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 4,
+  "zoom" : 555,
+  "name" : "Mineral vein",
+  "root" : false
+}, {
+  "id" : 4991,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 4,
+  "zoom" : 555,
+  "name" : "Mineral vein",
+  "root" : false
+}, {
+  "id" : 4985,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 4,
+  "zoom" : 555,
+  "name" : "Mineral vein",
+  "root" : false
+}, {
+  "id" : 4986,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 4,
+  "zoom" : 555,
+  "name" : "Mineral vein",
+  "root" : false
+}, {
+  "id" : 4985,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 4,
+  "zoom" : 555,
+  "name" : "Mineral vein",
+  "root" : false
+}, {
+  "id" : 4928,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Crystal outcrop",
+  "root" : false
+}, {
+  "id" : 4926,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Crystal outcrop",
+  "root" : false
+}, {
+  "id" : 4927,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Crystal outcrop",
+  "root" : false
+}, {
+  "id" : 4928,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 555,
+  "name" : "Crystal outcrop",
+  "root" : false
+}, {
+  "id" : 637,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Mine cart",
+  "root" : false
+}, {
+  "id" : 639,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 640,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 642,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 638,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 636,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Buffers",
+  "root" : false
+}, {
+  "id" : 4973,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Stairs",
+  "root" : false
+}, {
+  "id" : 4945,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Mine cart",
+  "root" : false
+}, {
+  "id" : 4931,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 638,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 4943,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 4947,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 4937,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Lift",
+  "root" : false
+}, {
+  "id" : 4938,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Lift",
+  "root" : false
+}, {
+  "id" : 4940,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Lift",
+  "root" : false
+}, {
+  "id" : 4939,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 4941,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 4924,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Water Valve",
+  "root" : false
+}, {
+  "id" : 3429,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Machinery",
+  "root" : false
+}, {
+  "id" : 3421,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 3420,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 3419,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 4999,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 643,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 644,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 4925,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 643,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 644,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 4951,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Lever",
+  "root" : false
+}, {
+  "id" : 4933,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Glowing fungus",
+  "root" : false
+}, {
+  "id" : 4932,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Glowing fungus",
+  "root" : false
+}, {
+  "id" : 541,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Stalagmite",
+  "root" : false
+}, {
+  "id" : 356,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 555,
+  "name" : "Crate",
+  "root" : false
+}, {
+  "id" : 4930,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Mine cart",
+  "root" : false
+}, {
+  "id" : 4942,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Lift",
+  "root" : false
+}, {
+  "id" : 4944,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Crate",
+  "root" : false
+}, {
+  "id" : 2160,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 555,
+  "name" : "Barrel",
+  "root" : false
+}, {
+  "id" : 4944,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 555,
+  "name" : "Crate",
+  "root" : false
+}, {
+  "id" : 4944,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Crate",
+  "root" : false
+}, {
+  "id" : 2161,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 555,
+  "name" : "Barrel",
+  "root" : false
+}, {
+  "id" : 4931,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 3322,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 4971,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Stairs",
+  "root" : false
+} ]

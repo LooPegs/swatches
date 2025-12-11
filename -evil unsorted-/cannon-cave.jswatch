@@ -1,0 +1,78 @@
+[ {
+  "id" : 5983,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 5981,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Fire",
+  "root" : false
+}, {
+  "id" : 5966,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Passage",
+  "root" : false
+}, {
+  "id" : 6005,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 0,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 6001,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 9,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 6000,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 1,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 6000,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 9,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+} ]

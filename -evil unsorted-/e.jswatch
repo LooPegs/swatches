@@ -1,0 +1,12 @@
+[ {
+  "id" : 3983,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Tent",
+  "root" : false
+} ]

@@ -1,0 +1,122 @@
+[ {
+  "id" : 43,
+  "rotation" : {
+    "x" : -301.5928947446218,
+    "y" : -12.566370614359592,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 588,
+  "name" : "Water",
+  "root" : false
+}, {
+  "id" : 2942,
+  "rotation" : {
+    "x" : -312.0648702565878,
+    "y" : -12.566370614359558,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 588,
+  "name" : "Water Pool",
+  "root" : false
+}, {
+  "id" : 2943,
+  "rotation" : {
+    "x" : -312.0648702565878,
+    "y" : -12.566370614359558,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 588,
+  "name" : "Polluted water",
+  "root" : false
+}, {
+  "id" : 2806,
+  "rotation" : {
+    "x" : 295.30970943743984,
+    "y" : 270.176968208723,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 650,
+  "name" : "Cave entrance",
+  "root" : false
+}, {
+  "id" : 2852,
+  "rotation" : {
+    "x" : 316.2536604613711,
+    "y" : 178.0235837034219,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 794,
+  "name" : "Cave entrance",
+  "root" : false
+}, {
+  "id" : 3757,
+  "rotation" : {
+    "x" : 316.25366046137106,
+    "y" : 251.32741228718388,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 794,
+  "name" : "Cave Entrance",
+  "root" : false
+}, {
+  "id" : 6442,
+  "rotation" : {
+    "x" : 316.25366046137106,
+    "y" : 251.32741228718388,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 794,
+  "name" : "Cave entrance",
+  "root" : false
+}, {
+  "id" : 6441,
+  "rotation" : {
+    "x" : 316.25366046137106,
+    "y" : 251.32741228718388,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 794,
+  "name" : "Cave entrance",
+  "root" : false
+}, {
+  "id" : 6443,
+  "rotation" : {
+    "x" : 316.25366046137106,
+    "y" : 251.32741228718388,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 794,
+  "name" : "Cave entrance",
+  "root" : false
+}, {
+  "id" : 6445,
+  "rotation" : {
+    "x" : 316.25366046137106,
+    "y" : 251.32741228718388,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 794,
+  "name" : "Cave entrance",
+  "root" : false
+}, {
+  "id" : 6446,
+  "rotation" : {
+    "x" : 316.25366046137106,
+    "y" : 251.32741228718388,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 794,
+  "name" : "Cave entrance",
+  "root" : false
+} ]
