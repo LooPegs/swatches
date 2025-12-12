@@ -1,5 +1,5 @@
 [ {
-  "id" : 5788,
+  "id" : 4052,
   "rotation" : {
     "x" : 0.0,
     "y" : 0.0,
@@ -7,32 +7,197 @@
   },
   "type" : 10,
   "zoom" : 555,
-  "name" : "Church pew",
+  "name" : "Tree",
   "root" : false
 }, {
-  "id" : 6964,
+  "id" : 3508,
   "rotation" : {
     "x" : 0.0,
     "y" : 0.0,
     "z" : 0.0
   },
-  "type" : 4,
+  "type" : 10,
   "zoom" : 555,
-  "name" : "null",
+  "name" : "Rotting log",
   "root" : false
 }, {
-  "id" : 6966,
+  "id" : 3510,
   "rotation" : {
     "x" : 0.0,
     "y" : 0.0,
     "z" : 0.0
   },
-  "type" : 0,
+  "type" : 10,
   "zoom" : 555,
-  "name" : "null",
+  "name" : "Rotting branch",
   "root" : false
 }, {
-  "id" : 4735,
+  "id" : 1286,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 555,
+  "name" : "Dead tree",
+  "root" : false
+}, {
+  "id" : 1283,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 555,
+  "name" : "Dead tree",
+  "root" : false
+}, {
+  "id" : 1123,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Bush",
+  "root" : false
+}, {
+  "id" : 1122,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Bush",
+  "root" : false
+}, {
+  "id" : 1282,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Dead tree",
+  "root" : false
+}, {
+  "id" : 14515,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Tree",
+  "root" : false
+}, {
+  "id" : 14514,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Tree",
+  "root" : false
+}, {
+  "id" : 1325,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Roots",
+  "root" : false
+}, {
+  "id" : 1322,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Hollow tree",
+  "root" : false
+}, {
+  "id" : 14516,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Tree stump",
+  "root" : false
+}, {
+  "id" : 1297,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 555,
+  "name" : "Fallen tree",
+  "root" : false
+}, {
+  "id" : 14566,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Tree",
+  "root" : false
+}, {
+  "id" : 14521,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Tree",
+  "root" : false
+}, {
+  "id" : 14515,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Tree",
+  "root" : false
+}, {
+  "id" : 14565,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Tree",
+  "root" : false
+}, {
+  "id" : 5537,
   "rotation" : {
     "x" : 0.0,
     "y" : 0.0,
@@ -43,29 +208,7 @@
   "name" : "null",
   "root" : false
 }, {
-  "id" : 4740,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 22,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 11668,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 0,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 11669,
+  "id" : 5581,
   "rotation" : {
     "x" : 0.0,
     "y" : 0.0,
@@ -73,215 +216,6 @@
   },
   "type" : 10,
   "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 11666,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "Furnace",
-  "root" : false
-}, {
-  "id" : 12349,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 0,
-  "zoom" : 555,
-  "name" : "Large door",
-  "root" : false
-}, {
-  "id" : 12350,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 0,
-  "zoom" : 555,
-  "name" : "Large door",
-  "root" : false
-}, {
-  "id" : 14875,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 22,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 14876,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 22,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 14873,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 4,
-  "zoom" : 555,
-  "name" : "Hanging meat",
-  "root" : false
-}, {
-  "id" : 12962,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "Table",
-  "root" : false
-}, {
-  "id" : 5609,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "Cooking Pots",
-  "root" : false
-}, {
-  "id" : 14879,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 22,
-  "zoom" : 555,
-  "name" : "Trapdoor",
-  "root" : false
-}, {
-  "id" : 14870,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 5,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 14871,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 5,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 14867,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "Barrel",
-  "root" : false
-}, {
-  "id" : 14866,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "Barrel",
-  "root" : false
-}, {
-  "id" : 14868,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "Sink",
-  "root" : false
-}, {
-  "id" : 14872,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "Stool",
-  "root" : false
-}, {
-  "id" : 14869,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "Shelves",
-  "root" : false
-}, {
-  "id" : 817,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "Suit of armour",
-  "root" : false
-}, {
-  "id" : 901,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 5,
-  "zoom" : 555,
-  "name" : "Hanging banner",
-  "root" : false
-}, {
-  "id" : 899,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 5,
-  "zoom" : 555,
-  "name" : "Hanging banner",
+  "name" : "Logs",
   "root" : false
 } ]
