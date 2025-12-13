@@ -1,49 +1,82 @@
 [ {
-  "id" : 10676,
+  "id" : 12662,
   "rotation" : {
     "x" : 0.0,
     "y" : 0.0,
     "z" : 0.0
   },
-  "type" : 10,
+  "type" : 0,
   "zoom" : 555,
-  "name" : "Workbench",
+  "name" : "null",
   "root" : false
 }, {
-  "id" : 10677,
+  "id" : 12669,
   "rotation" : {
     "x" : 0.0,
     "y" : 0.0,
     "z" : 0.0
   },
-  "type" : 10,
+  "type" : 0,
   "zoom" : 555,
-  "name" : "Workbench",
+  "name" : "null",
   "root" : false
 }, {
-  "id" : 10695,
+  "id" : 12662,
   "rotation" : {
     "x" : 0.0,
     "y" : 0.0,
     "z" : 0.0
   },
-  "type" : 10,
+  "type" : 1,
   "zoom" : 555,
-  "name" : "Puppet torsos",
+  "name" : "null",
   "root" : false
 }, {
-  "id" : 10706,
+  "id" : 12662,
   "rotation" : {
     "x" : 0.0,
     "y" : 0.0,
     "z" : 0.0
   },
-  "type" : 10,
+  "type" : 9,
   "zoom" : 555,
-  "name" : "Large Box",
+  "name" : "null",
   "root" : false
 }, {
-  "id" : 10709,
+  "id" : 12669,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 9,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 11993,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 0,
+  "zoom" : 555,
+  "name" : "Door",
+  "root" : false
+}, {
+  "id" : 196,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 4,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 12692,
   "rotation" : {
     "x" : 0.0,
     "y" : 0.0,
@@ -54,95 +87,18 @@
   "name" : "null",
   "root" : false
 }, {
-  "id" : 10649,
+  "id" : 12693,
   "rotation" : {
     "x" : 0.0,
     "y" : 0.0,
     "z" : 0.0
   },
-  "type" : 4,
+  "type" : 22,
   "zoom" : 555,
   "name" : "null",
   "root" : false
 }, {
-  "id" : 10648,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 4,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 10645,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 4,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 10646,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 4,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 10644,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 3,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 10683,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "Decorations Box",
-  "root" : false
-}, {
-  "id" : 10708,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "Ladder",
-  "root" : false
-}, {
-  "id" : 10714,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 3,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 10714,
+  "id" : 12696,
   "rotation" : {
     "x" : 0.0,
     "y" : 0.0,
@@ -153,18 +109,40 @@
   "name" : "null",
   "root" : false
 }, {
-  "id" : 10651,
+  "id" : 12687,
   "rotation" : {
     "x" : 0.0,
     "y" : 0.0,
     "z" : 0.0
   },
-  "type" : 4,
+  "type" : 22,
   "zoom" : 555,
   "name" : "null",
   "root" : false
 }, {
-  "id" : 10707,
+  "id" : 12671,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 2,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 12671,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 9,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 12683,
   "rotation" : {
     "x" : 0.0,
     "y" : 0.0,
@@ -172,16 +150,16 @@
   },
   "type" : 10,
   "zoom" : 555,
-  "name" : "Ladder",
+  "name" : "Bridge",
   "root" : false
 }, {
-  "id" : 10643,
+  "id" : 12682,
   "rotation" : {
     "x" : 0.0,
     "y" : 0.0,
     "z" : 0.0
   },
-  "type" : 0,
+  "type" : 10,
   "zoom" : 555,
   "name" : "null",
   "root" : false

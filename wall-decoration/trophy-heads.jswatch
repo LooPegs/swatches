@@ -1,0 +1,221 @@
+[ {
+  "id" : 965,
+  "rotation" : {
+    "x" : -1080.7078728348831,
+    "y" : 90.05898940291098,
+    "z" : 0.0
+  },
+  "type" : 4,
+  "zoom" : 555,
+  "name" : "swordfish1",
+  "root" : false
+}, {
+  "id" : 964,
+  "rotation" : {
+    "x" : -1080.7078728348831,
+    "y" : 90.05898940291098,
+    "z" : 0.0
+  },
+  "type" : 4,
+  "zoom" : 555,
+  "name" : "swordfish2",
+  "root" : false
+}, {
+  "id" : 903,
+  "rotation" : {
+    "x" : -1057.6695267085572,
+    "y" : 16.755160819149197,
+    "z" : 0.0
+  },
+  "type" : 4,
+  "zoom" : 967,
+  "name" : "Unicorn's head",
+  "root" : false
+}, {
+  "id" : 904,
+  "rotation" : {
+    "x" : -1057.6695267085572,
+    "y" : 16.755160819149197,
+    "z" : 0.0
+  },
+  "type" : 4,
+  "zoom" : 967,
+  "name" : "Dragon's head",
+  "root" : false
+}, {
+  "id" : 905,
+  "rotation" : {
+    "x" : -1057.6695267085572,
+    "y" : 16.755160819149197,
+    "z" : 0.0
+  },
+  "type" : 4,
+  "zoom" : 967,
+  "name" : "Dragon's head",
+  "root" : false
+}, {
+  "id" : 906,
+  "rotation" : {
+    "x" : -1057.6695267085572,
+    "y" : 16.755160819149197,
+    "z" : 0.0
+  },
+  "type" : 4,
+  "zoom" : 967,
+  "name" : "Bull's head",
+  "root" : false
+}, {
+  "id" : 4181,
+  "rotation" : {
+    "x" : -1057.6695267085572,
+    "y" : 16.755160819149197,
+    "z" : 0.0
+  },
+  "type" : 4,
+  "zoom" : 967,
+  "name" : "Unicorn's head",
+  "root" : false
+}, {
+  "id" : 4182,
+  "rotation" : {
+    "x" : -1057.6695267085572,
+    "y" : 16.755160819149197,
+    "z" : 0.0
+  },
+  "type" : 4,
+  "zoom" : 967,
+  "name" : "Bull's head",
+  "root" : false
+}, {
+  "id" : 12233,
+  "rotation" : {
+    "x" : -1059.7639218109507,
+    "y" : 353.952772304455,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 967,
+  "name" : "Cockatrice head",
+  "root" : false
+}, {
+  "id" : 12234,
+  "rotation" : {
+    "x" : -1059.7639218109507,
+    "y" : 353.952772304455,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 967,
+  "name" : "Basilisk head",
+  "root" : false
+}, {
+  "id" : 12235,
+  "rotation" : {
+    "x" : -1059.7639218109507,
+    "y" : 353.952772304455,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 967,
+  "name" : "Kurask head",
+  "root" : false
+}, {
+  "id" : 13485,
+  "rotation" : {
+    "x" : -1053.480736503771,
+    "y" : 333.00882128052297,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 967,
+  "name" : "Abyssal demon head",
+  "root" : false
+}, {
+  "id" : 13486,
+  "rotation" : {
+    "x" : -1053.480736503771,
+    "y" : 333.00882128052297,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 967,
+  "name" : "KBD heads",
+  "root" : false
+}, {
+  "id" : 13487,
+  "rotation" : {
+    "x" : -1099.5574287564225,
+    "y" : 211.533905341717,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 967,
+  "name" : "KQ head",
+  "root" : false
+}, {
+  "id" : 12233,
+  "rotation" : {
+    "x" : -1099.5574287564225,
+    "y" : 211.533905341717,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 967,
+  "name" : "Cockatrice head",
+  "root" : false
+}, {
+  "id" : 12234,
+  "rotation" : {
+    "x" : -1099.5574287564225,
+    "y" : 211.533905341717,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 967,
+  "name" : "Basilisk head",
+  "root" : false
+}, {
+  "id" : 12235,
+  "rotation" : {
+    "x" : -1099.5574287564225,
+    "y" : 211.533905341717,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 967,
+  "name" : "Kurask head",
+  "root" : false
+}, {
+  "id" : 13485,
+  "rotation" : {
+    "x" : -1099.5574287564225,
+    "y" : 282.743338823086,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 967,
+  "name" : "Abyssal demon head",
+  "root" : false
+}, {
+  "id" : 13486,
+  "rotation" : {
+    "x" : -1099.5574287564225,
+    "y" : 282.743338823086,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 967,
+  "name" : "KBD heads",
+  "root" : false
+}, {
+  "id" : 13487,
+  "rotation" : {
+    "x" : -1099.5574287564225,
+    "y" : 282.743338823086,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 967,
+  "name" : "KQ head",
+  "root" : false
+} ]

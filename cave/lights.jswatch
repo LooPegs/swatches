@@ -20,4 +20,15 @@
   "zoom" : 555,
   "name" : "null",
   "root" : false
+}, {
+  "id" : 726,
+  "rotation" : {
+    "x" : -259.70499269675605,
+    "y" : 368.61353802120294,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
 } ]

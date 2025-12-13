@@ -1,0 +1,23 @@
+[ {
+  "id" : 4813,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "Jungle Grass",
+  "root" : false
+}, {
+  "id" : 4810,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "Jungle",
+  "root" : false
+} ]
