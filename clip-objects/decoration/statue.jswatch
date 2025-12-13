@@ -1,0 +1,89 @@
+[ {
+  "id" : 12093,
+  "rotation" : {
+    "x" : -1114.218194473175,
+    "y" : 209.4395102393234,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Chicken Shrine",
+  "root" : false
+}, {
+  "id" : 566,
+  "rotation" : {
+    "x" : -1114.218194473175,
+    "y" : 209.4395102393234,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Statue of a warrior",
+  "root" : false
+}, {
+  "id" : 562,
+  "rotation" : {
+    "x" : -1114.218194473175,
+    "y" : 209.4395102393234,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Statue of a warrior",
+  "root" : false
+}, {
+  "id" : 566,
+  "rotation" : {
+    "x" : -1114.218194473175,
+    "y" : 209.4395102393234,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Statue of a warrior",
+  "root" : false
+}, {
+  "id" : 563,
+  "rotation" : {
+    "x" : -1114.218194473175,
+    "y" : 209.4395102393234,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Statue of a king",
+  "root" : false
+}, {
+  "id" : 574,
+  "rotation" : {
+    "x" : -1114.218194473175,
+    "y" : 209.4395102393234,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Statue",
+  "root" : false
+}, {
+  "id" : 576,
+  "rotation" : {
+    "x" : -1114.218194473175,
+    "y" : 209.4395102393234,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Statue",
+  "root" : false
+}, {
+  "id" : 21,
+  "rotation" : {
+    "x" : -1070.235897322917,
+    "y" : 48.171087355047106,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 909,
+  "name" : "Mysterious statue",
+  "root" : false
+} ]

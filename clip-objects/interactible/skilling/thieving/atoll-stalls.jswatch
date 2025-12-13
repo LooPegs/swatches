@@ -1,0 +1,100 @@
+[ {
+  "id" : 4875,
+  "rotation" : {
+    "x" : -368.61353802120186,
+    "y" : 569.6754678509534,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Food Stall",
+  "root" : false
+}, {
+  "id" : 4876,
+  "rotation" : {
+    "x" : -368.61353802120186,
+    "y" : 569.6754678509534,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "General Stall",
+  "root" : false
+}, {
+  "id" : 4877,
+  "rotation" : {
+    "x" : -368.61353802120186,
+    "y" : 569.6754678509534,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Magic Stall",
+  "root" : false
+}, {
+  "id" : 4878,
+  "rotation" : {
+    "x" : -368.61353802120186,
+    "y" : 569.6754678509534,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Scimitar Stall",
+  "root" : false
+}, {
+  "id" : 4874,
+  "rotation" : {
+    "x" : -368.61353802120186,
+    "y" : 569.6754678509534,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 555,
+  "name" : "Crafting Stall",
+  "root" : false
+}, {
+  "id" : 4875,
+  "rotation" : {
+    "x" : -368.61353802120186,
+    "y" : 569.6754678509534,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 555,
+  "name" : "Food Stall",
+  "root" : false
+}, {
+  "id" : 4876,
+  "rotation" : {
+    "x" : -368.61353802120186,
+    "y" : 569.6754678509534,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 555,
+  "name" : "General Stall",
+  "root" : false
+}, {
+  "id" : 4877,
+  "rotation" : {
+    "x" : -368.61353802120186,
+    "y" : 569.6754678509534,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 555,
+  "name" : "Magic Stall",
+  "root" : false
+}, {
+  "id" : 4878,
+  "rotation" : {
+    "x" : -368.61353802120186,
+    "y" : 569.6754678509534,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 555,
+  "name" : "Scimitar Stall",
+  "root" : false
+} ]

@@ -1,0 +1,122 @@
+[ {
+  "id" : 6162,
+  "rotation" : {
+    "x" : -368.61353802120186,
+    "y" : 569.6754678509534,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Gem Stall",
+  "root" : false
+}, {
+  "id" : 6163,
+  "rotation" : {
+    "x" : -368.61353802120186,
+    "y" : 569.6754678509534,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Bakery stall",
+  "root" : false
+}, {
+  "id" : 6164,
+  "rotation" : {
+    "x" : -368.61353802120186,
+    "y" : 569.6754678509534,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Silver stall",
+  "root" : false
+}, {
+  "id" : 6165,
+  "rotation" : {
+    "x" : -368.61353802120186,
+    "y" : 569.6754678509534,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Clothes stall",
+  "root" : false
+}, {
+  "id" : 6166,
+  "rotation" : {
+    "x" : -368.61353802120186,
+    "y" : 569.6754678509534,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Crafting stall",
+  "root" : false
+}, {
+  "id" : 6984,
+  "rotation" : {
+    "x" : -368.61353802120186,
+    "y" : 569.6754678509534,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 555,
+  "name" : "Market Stall",
+  "root" : false
+}, {
+  "id" : 6166,
+  "rotation" : {
+    "x" : -368.61353802120186,
+    "y" : 569.6754678509534,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 555,
+  "name" : "Crafting stall",
+  "root" : false
+}, {
+  "id" : 6165,
+  "rotation" : {
+    "x" : -368.61353802120186,
+    "y" : 569.6754678509534,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 555,
+  "name" : "Clothes stall",
+  "root" : false
+}, {
+  "id" : 6164,
+  "rotation" : {
+    "x" : -368.61353802120186,
+    "y" : 569.6754678509534,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 555,
+  "name" : "Silver stall",
+  "root" : false
+}, {
+  "id" : 6163,
+  "rotation" : {
+    "x" : -368.61353802120186,
+    "y" : 569.6754678509534,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 555,
+  "name" : "Bakery stall",
+  "root" : false
+}, {
+  "id" : 6162,
+  "rotation" : {
+    "x" : -368.61353802120186,
+    "y" : 569.6754678509534,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 555,
+  "name" : "Gem Stall",
+  "root" : false
+} ]

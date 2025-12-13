@@ -1,37 +1,4 @@
 [ {
-  "id" : 43,
-  "rotation" : {
-    "x" : -301.5928947446218,
-    "y" : -12.566370614359592,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 588,
-  "name" : "Water",
-  "root" : false
-}, {
-  "id" : 2942,
-  "rotation" : {
-    "x" : -312.0648702565878,
-    "y" : -12.566370614359558,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 588,
-  "name" : "Water Pool",
-  "root" : false
-}, {
-  "id" : 2943,
-  "rotation" : {
-    "x" : -312.0648702565878,
-    "y" : -12.566370614359558,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 588,
-  "name" : "Polluted water",
-  "root" : false
-}, {
   "id" : 2806,
   "rotation" : {
     "x" : 295.30970943743984,
@@ -76,47 +43,69 @@
   "name" : "Cave entrance",
   "root" : false
 }, {
-  "id" : 6441,
+  "id" : 12173,
   "rotation" : {
-    "x" : 316.25366046137106,
-    "y" : 251.32741228718388,
+    "x" : 0.0,
+    "y" : 0.0,
     "z" : 0.0
   },
   "type" : 10,
-  "zoom" : 794,
-  "name" : "Cave entrance",
+  "zoom" : 555,
+  "name" : "null",
   "root" : false
 }, {
-  "id" : 6443,
+  "id" : 12630,
   "rotation" : {
-    "x" : 316.25366046137106,
-    "y" : 251.32741228718388,
+    "x" : 0.0,
+    "y" : 0.0,
     "z" : 0.0
   },
-  "type" : 10,
-  "zoom" : 794,
-  "name" : "Cave entrance",
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "null",
   "root" : false
 }, {
-  "id" : 6445,
+  "id" : 12629,
   "rotation" : {
-    "x" : 316.25366046137106,
-    "y" : 251.32741228718388,
+    "x" : 0.0,
+    "y" : 0.0,
     "z" : 0.0
   },
-  "type" : 10,
-  "zoom" : 794,
-  "name" : "Cave entrance",
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "null",
   "root" : false
 }, {
-  "id" : 6446,
+  "id" : 12631,
   "rotation" : {
-    "x" : 316.25366046137106,
-    "y" : 251.32741228718388,
+    "x" : 0.0,
+    "y" : 0.0,
     "z" : 0.0
   },
-  "type" : 10,
-  "zoom" : 794,
-  "name" : "Cave entrance",
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 12581,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "Hole",
+  "root" : false
+}, {
+  "id" : 12631,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "null",
   "root" : false
 } ]

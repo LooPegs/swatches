@@ -1,111 +1,100 @@
 [ {
-  "id" : 1271,
+  "id" : 4566,
   "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 22,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 1270,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 22,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 1269,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 22,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 730,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 22,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 1268,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 22,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 1267,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 22,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 1390,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
+    "x" : -1114.218194473175,
+    "y" : 209.4395102393234,
     "z" : 0.0
   },
   "type" : 10,
   "zoom" : 555,
-  "name" : "Jungle plant",
+  "name" : "null",
   "root" : false
 }, {
-  "id" : 1303,
+  "id" : 4567,
   "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
+    "x" : -1114.218194473175,
+    "y" : 209.4395102393234,
     "z" : 0.0
   },
   "type" : 10,
-  "zoom" : 555,
-  "name" : "Tree",
-  "root" : false
-}, {
-  "id" : 1251,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 22,
   "zoom" : 555,
   "name" : "null",
   "root" : false
 }, {
-  "id" : 1177,
+  "id" : 4560,
   "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
+    "x" : -1114.218194473175,
+    "y" : 209.4395102393234,
     "z" : 0.0
   },
   "type" : 10,
   "zoom" : 555,
-  "name" : "Waterlily",
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 4561,
+  "rotation" : {
+    "x" : -1114.218194473175,
+    "y" : 209.4395102393234,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 4564,
+  "rotation" : {
+    "x" : -1114.218194473175,
+    "y" : 209.4395102393234,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 4563,
+  "rotation" : {
+    "x" : -1114.218194473175,
+    "y" : 209.4395102393234,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 4563,
+  "rotation" : {
+    "x" : -1114.218194473175,
+    "y" : 209.4395102393234,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 4560,
+  "rotation" : {
+    "x" : -1114.218194473175,
+    "y" : 209.4395102393234,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 4565,
+  "rotation" : {
+    "x" : -1114.218194473175,
+    "y" : 209.4395102393234,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "null",
   "root" : false
 } ]

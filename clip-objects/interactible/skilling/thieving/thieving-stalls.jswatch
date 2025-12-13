@@ -1,0 +1,441 @@
+[ {
+  "id" : 5489,
+  "rotation" : {
+    "x" : -259.70499269675605,
+    "y" : 368.61353802120294,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Jewellery stall",
+  "root" : false
+}, {
+  "id" : 628,
+  "rotation" : {
+    "x" : -293.21531433504697,
+    "y" : 400.02946455710105,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 1034,
+  "name" : "Silver stall",
+  "root" : false
+}, {
+  "id" : 629,
+  "rotation" : {
+    "x" : -293.21531433504697,
+    "y" : 400.02946455710105,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 1034,
+  "name" : "Silk stall",
+  "root" : false
+}, {
+  "id" : 630,
+  "rotation" : {
+    "x" : -293.21531433504697,
+    "y" : 400.02946455710105,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 1034,
+  "name" : "Bakery stall",
+  "root" : false
+}, {
+  "id" : 631,
+  "rotation" : {
+    "x" : -293.21531433504697,
+    "y" : 400.02946455710105,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 1034,
+  "name" : "Gem stall",
+  "root" : false
+}, {
+  "id" : 632,
+  "rotation" : {
+    "x" : -293.21531433504697,
+    "y" : 400.02946455710105,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 1034,
+  "name" : "Fur stall",
+  "root" : false
+}, {
+  "id" : 633,
+  "rotation" : {
+    "x" : -293.21531433504697,
+    "y" : 400.02946455710105,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 1034,
+  "name" : "Spice stall",
+  "root" : false
+}, {
+  "id" : 634,
+  "rotation" : {
+    "x" : -335.1032163829111,
+    "y" : 383.27430373795556,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 1034,
+  "name" : "Market stall",
+  "root" : false
+}, {
+  "id" : 635,
+  "rotation" : {
+    "x" : -335.1032163829111,
+    "y" : 383.27430373795556,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 1034,
+  "name" : "Tea stall",
+  "root" : false
+}, {
+  "id" : 1151,
+  "rotation" : {
+    "x" : -328.8200310757315,
+    "y" : 328.8200310757322,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 1034,
+  "name" : "Fairy market stall",
+  "root" : false
+}, {
+  "id" : 4277,
+  "rotation" : {
+    "x" : -328.8200310757315,
+    "y" : 328.8200310757322,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 1034,
+  "name" : "Fish stall",
+  "root" : false
+}, {
+  "id" : 4278,
+  "rotation" : {
+    "x" : -316.25366046137225,
+    "y" : 374.8967233283828,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 1034,
+  "name" : "Fur stall",
+  "root" : false
+}, {
+  "id" : 4706,
+  "rotation" : {
+    "x" : -316.25366046137225,
+    "y" : 374.8967233283828,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 1034,
+  "name" : "Veg stall",
+  "root" : false
+}, {
+  "id" : 5430,
+  "rotation" : {
+    "x" : -333.0088212805177,
+    "y" : 356.04716740684387,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 1034,
+  "name" : "Market stall",
+  "root" : false
+}, {
+  "id" : 5431,
+  "rotation" : {
+    "x" : -333.0088212805177,
+    "y" : 356.04716740684387,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 1034,
+  "name" : "Market stall",
+  "root" : false
+}, {
+  "id" : 5595,
+  "rotation" : {
+    "x" : -322.53684576855164,
+    "y" : 356.04716740684387,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 1034,
+  "name" : "Toy Stall",
+  "root" : false
+}, {
+  "id" : 5596,
+  "rotation" : {
+    "x" : -322.53684576855164,
+    "y" : 356.04716740684387,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 1034,
+  "name" : "Market stall",
+  "root" : false
+}, {
+  "id" : 7053,
+  "rotation" : {
+    "x" : -341.38640169009045,
+    "y" : 517.3155902911205,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 1034,
+  "name" : "Seed Stall",
+  "root" : false
+}, {
+  "id" : 10376,
+  "rotation" : {
+    "x" : -395.84067435231356,
+    "y" : 529.8819609054833,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 1034,
+  "name" : "Choc-Ice Stall",
+  "root" : false
+}, {
+  "id" : 14011,
+  "rotation" : {
+    "x" : -387.4630939427407,
+    "y" : 550.8259119294148,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 1034,
+  "name" : "Market stall",
+  "root" : false
+}, {
+  "id" : 1151,
+  "rotation" : {
+    "x" : -404.2182547618864,
+    "y" : 529.8819609054833,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 1034,
+  "name" : "Fairy market stall",
+  "root" : false
+}, {
+  "id" : 2560,
+  "rotation" : {
+    "x" : -404.2182547618864,
+    "y" : 529.8819609054833,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 1034,
+  "name" : "Silk stall",
+  "root" : false
+}, {
+  "id" : 2561,
+  "rotation" : {
+    "x" : -404.2182547618864,
+    "y" : 529.8819609054833,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 1034,
+  "name" : "Baker's stall",
+  "root" : false
+}, {
+  "id" : 2562,
+  "rotation" : {
+    "x" : -404.2182547618864,
+    "y" : 529.8819609054833,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 1034,
+  "name" : "Gem stall",
+  "root" : false
+}, {
+  "id" : 2563,
+  "rotation" : {
+    "x" : -404.2182547618864,
+    "y" : 529.8819609054833,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 1034,
+  "name" : "Fur stall",
+  "root" : false
+}, {
+  "id" : 2564,
+  "rotation" : {
+    "x" : -404.2182547618864,
+    "y" : 529.8819609054833,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 1034,
+  "name" : "Spice stall",
+  "root" : false
+}, {
+  "id" : 2565,
+  "rotation" : {
+    "x" : -404.2182547618864,
+    "y" : 529.8819609054833,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 1034,
+  "name" : "Silver stall",
+  "root" : false
+}, {
+  "id" : 4276,
+  "rotation" : {
+    "x" : -404.2182547618864,
+    "y" : 529.8819609054833,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 1034,
+  "name" : "Market stall",
+  "root" : false
+}, {
+  "id" : 4277,
+  "rotation" : {
+    "x" : -404.2182547618864,
+    "y" : 529.8819609054833,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 1034,
+  "name" : "Fish stall",
+  "root" : false
+}, {
+  "id" : 4278,
+  "rotation" : {
+    "x" : -404.2182547618864,
+    "y" : 563.392282543774,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 1034,
+  "name" : "Fur stall",
+  "root" : false
+}, {
+  "id" : 632,
+  "rotation" : {
+    "x" : -404.2182547618864,
+    "y" : 563.392282543774,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 1034,
+  "name" : "Fur stall",
+  "root" : false
+}, {
+  "id" : 4706,
+  "rotation" : {
+    "x" : -404.2182547618864,
+    "y" : 563.392282543774,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 1034,
+  "name" : "Veg stall",
+  "root" : false
+}, {
+  "id" : 5430,
+  "rotation" : {
+    "x" : -404.2182547618864,
+    "y" : 563.392282543774,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 1034,
+  "name" : "Market stall",
+  "root" : false
+}, {
+  "id" : 5431,
+  "rotation" : {
+    "x" : -404.2182547618864,
+    "y" : 563.392282543774,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 1034,
+  "name" : "Market stall",
+  "root" : false
+}, {
+  "id" : 5489,
+  "rotation" : {
+    "x" : -404.2182547618864,
+    "y" : 563.392282543774,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 1034,
+  "name" : "Jewellery stall",
+  "root" : false
+}, {
+  "id" : 5595,
+  "rotation" : {
+    "x" : -404.2182547618864,
+    "y" : 563.392282543774,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 1034,
+  "name" : "Toy Stall",
+  "root" : false
+}, {
+  "id" : 5596,
+  "rotation" : {
+    "x" : -404.2182547618864,
+    "y" : 563.392282543774,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 1034,
+  "name" : "Market stall",
+  "root" : false
+}, {
+  "id" : 10376,
+  "rotation" : {
+    "x" : -404.2182547618864,
+    "y" : 563.392282543774,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 1034,
+  "name" : "Choc-Ice Stall",
+  "root" : false
+}, {
+  "id" : 11360,
+  "rotation" : {
+    "x" : -395.84067435231356,
+    "y" : 557.1090972365945,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 1034,
+  "name" : "Pie stall",
+  "root" : false
+}, {
+  "id" : 14011,
+  "rotation" : {
+    "x" : -368.61353802120186,
+    "y" : 569.6754678509534,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 1034,
+  "name" : "Market stall",
+  "root" : false
+} ]
