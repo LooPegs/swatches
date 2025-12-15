@@ -20,4 +20,48 @@
   "zoom" : 555,
   "name" : "Jungle",
   "root" : false
+}, {
+  "id" : 4735,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "sparse",
+  "root" : false
+}, {
+  "id" : 4736,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "corner",
+  "root" : false
+}, {
+  "id" : 4740,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "center",
+  "root" : false
+}, {
+  "id" : 4737,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "edge",
+  "root" : false
 } ]
