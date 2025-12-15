@@ -31,4 +31,15 @@
   "zoom" : 555,
   "name" : "null",
   "root" : false
+}, {
+  "id" : 984,
+  "rotation" : {
+    "x" : 330.91442617812544,
+    "y" : 178.02358370342174,
+    "z" : 0.0
+  },
+  "type" : 0,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
 } ]
