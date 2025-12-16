@@ -1,104 +1,5 @@
 [ {
-  "id" : 10453,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 10442,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 10450,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 10445,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 10448,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 10454,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 10446,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 10450,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 10433,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "Fire",
-  "root" : false
-}, {
-  "id" : 10423,
+  "id" : 6590,
   "rotation" : {
     "x" : 0.0,
     "y" : 0.0,
@@ -106,10 +7,32 @@
   },
   "type" : 0,
   "zoom" : 555,
-  "name" : "Door",
+  "name" : "null",
   "root" : false
 }, {
-  "id" : 10425,
+  "id" : 6590,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 3,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 6590,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 2,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 6601,
   "rotation" : {
     "x" : 0.0,
     "y" : 0.0,
@@ -117,10 +40,98 @@
   },
   "type" : 0,
   "zoom" : 555,
-  "name" : "Door",
+  "name" : "null",
   "root" : false
 }, {
-  "id" : 10441,
+  "id" : 6595,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 0,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 10503,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Pile of bricks",
+  "root" : false
+}, {
+  "id" : 10389,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 10508,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Stone Pew",
+  "root" : false
+}, {
+  "id" : 10522,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 0,
+  "zoom" : 555,
+  "name" : "Tapestry",
+  "root" : false
+}, {
+  "id" : 10377,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Clay Oven",
+  "root" : false
+}, {
+  "id" : 10489,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Armour",
+  "root" : false
+}, {
+  "id" : 6600,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 0,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 6602,
   "rotation" : {
     "x" : 0.0,
     "y" : 0.0,
@@ -131,14 +142,47 @@
   "name" : "null",
   "root" : false
 }, {
-  "id" : 10412,
+  "id" : 6588,
   "rotation" : {
     "x" : 0.0,
     "y" : 0.0,
     "z" : 0.0
   },
-  "type" : 22,
+  "type" : 10,
   "zoom" : 555,
-  "name" : "Hole",
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 6589,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 10526,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Staircase",
+  "root" : false
+}, {
+  "id" : 10525,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Staircase",
   "root" : false
 } ]

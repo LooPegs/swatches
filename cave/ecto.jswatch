@@ -1,126 +1,5 @@
 [ {
-  "id" : 10453,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 10442,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 10450,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 10445,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 10448,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 10454,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 10446,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 10450,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 10433,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "Fire",
-  "root" : false
-}, {
-  "id" : 10423,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 0,
-  "zoom" : 555,
-  "name" : "Door",
-  "root" : false
-}, {
-  "id" : 10425,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 0,
-  "zoom" : 555,
-  "name" : "Door",
-  "root" : false
-}, {
-  "id" : 10441,
+  "id" : 5482,
   "rotation" : {
     "x" : 0.0,
     "y" : 0.0,
@@ -131,7 +10,40 @@
   "name" : "null",
   "root" : false
 }, {
-  "id" : 10412,
+  "id" : 5475,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 9,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 5475,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 1,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 5475,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 0,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 5483,
   "rotation" : {
     "x" : 0.0,
     "y" : 0.0,
@@ -139,6 +51,61 @@
   },
   "type" : 22,
   "zoom" : 555,
-  "name" : "Hole",
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 5236,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 9,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 5476,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 0,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 5262,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Stairs",
+  "root" : false
+}, {
+  "id" : 5480,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 5359,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Skeleton",
   "root" : false
 } ]

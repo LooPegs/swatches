@@ -1,5 +1,5 @@
 [ {
-  "id" : 10453,
+  "id" : 3450,
   "rotation" : {
     "x" : 0.0,
     "y" : 0.0,
@@ -10,7 +10,7 @@
   "name" : "null",
   "root" : false
 }, {
-  "id" : 10442,
+  "id" : 3451,
   "rotation" : {
     "x" : 0.0,
     "y" : 0.0,
@@ -21,7 +21,7 @@
   "name" : "null",
   "root" : false
 }, {
-  "id" : 10450,
+  "id" : 3442,
   "rotation" : {
     "x" : 0.0,
     "y" : 0.0,
@@ -32,7 +32,18 @@
   "name" : "null",
   "root" : false
 }, {
-  "id" : 10445,
+  "id" : 3474,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 4,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 3448,
   "rotation" : {
     "x" : 0.0,
     "y" : 0.0,
@@ -43,7 +54,62 @@
   "name" : "null",
   "root" : false
 }, {
-  "id" : 10448,
+  "id" : 12874,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 555,
+  "name" : "Crate",
+  "root" : false
+}, {
+  "id" : 12874,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Crate",
+  "root" : false
+}, {
+  "id" : 1755,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Ladder",
+  "root" : false
+}, {
+  "id" : 3443,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Holy barrier",
+  "root" : false
+}, {
+  "id" : 3485,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Well",
+  "root" : false
+}, {
+  "id" : 3486,
   "rotation" : {
     "x" : 0.0,
     "y" : 0.0,
@@ -54,7 +120,7 @@
   "name" : "null",
   "root" : false
 }, {
-  "id" : 10454,
+  "id" : 3498,
   "rotation" : {
     "x" : 0.0,
     "y" : 0.0,
@@ -62,83 +128,6 @@
   },
   "type" : 10,
   "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 10446,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 10450,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 10433,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "Fire",
-  "root" : false
-}, {
-  "id" : 10423,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 0,
-  "zoom" : 555,
-  "name" : "Door",
-  "root" : false
-}, {
-  "id" : 10425,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 0,
-  "zoom" : 555,
-  "name" : "Door",
-  "root" : false
-}, {
-  "id" : 10441,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 22,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 10412,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 22,
-  "zoom" : 555,
-  "name" : "Hole",
+  "name" : "Monument",
   "root" : false
 } ]

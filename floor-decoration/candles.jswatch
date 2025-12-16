@@ -1,0 +1,23 @@
+[ {
+  "id" : 11472,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Candles",
+  "root" : false
+}, {
+  "id" : 11473,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Candles",
+  "root" : false
+} ]

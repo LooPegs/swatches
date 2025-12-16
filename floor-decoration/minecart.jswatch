@@ -1,0 +1,89 @@
+[ {
+  "id" : 637,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 555,
+  "name" : "diagonal",
+  "root" : false
+}, {
+  "id" : 637,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Mine cart",
+  "root" : false
+}, {
+  "id" : 638,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "straight",
+  "root" : false
+}, {
+  "id" : 639,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "left",
+  "root" : false
+}, {
+  "id" : 642,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "right",
+  "root" : false
+}, {
+  "id" : 640,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "corner",
+  "root" : false
+}, {
+  "id" : 636,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Buffers",
+  "root" : false
+}, {
+  "id" : 4943,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "end",
+  "root" : false
+} ]

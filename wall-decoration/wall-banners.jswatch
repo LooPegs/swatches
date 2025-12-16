@@ -42,4 +42,136 @@
   "zoom" : 555,
   "name" : "null",
   "root" : false
+}, {
+  "id" : 11507,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 4,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 11509,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 0,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 10541,
+  "rotation" : {
+    "x" : -477.5220833456502,
+    "y" : 115.19173063162559,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Human Flag",
+  "root" : false
+}, {
+  "id" : 10542,
+  "rotation" : {
+    "x" : -477.5220833456502,
+    "y" : 115.19173063162559,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Human Flag",
+  "root" : false
+}, {
+  "id" : 10551,
+  "rotation" : {
+    "x" : -477.5220833456502,
+    "y" : 115.19173063162559,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "TzHaar Flag",
+  "root" : false
+}, {
+  "id" : 10549,
+  "rotation" : {
+    "x" : -477.5220833456502,
+    "y" : 115.19173063162559,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Werewolf Flag",
+  "root" : false
+}, {
+  "id" : 10546,
+  "rotation" : {
+    "x" : -477.5220833456502,
+    "y" : 115.19173063162559,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Elf Flag",
+  "root" : false
+}, {
+  "id" : 10545,
+  "rotation" : {
+    "x" : -477.5220833456502,
+    "y" : 115.19173063162559,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Elf Flag",
+  "root" : false
+}, {
+  "id" : 10544,
+  "rotation" : {
+    "x" : -477.5220833456502,
+    "y" : 115.19173063162559,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Dwarf Flag",
+  "root" : false
+}, {
+  "id" : 10543,
+  "rotation" : {
+    "x" : -477.5220833456502,
+    "y" : 115.19173063162559,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Dwarf Flag",
+  "root" : false
+}, {
+  "id" : 10548,
+  "rotation" : {
+    "x" : -477.5220833456502,
+    "y" : 115.19173063162559,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Gnome Flag",
+  "root" : false
+}, {
+  "id" : 10547,
+  "rotation" : {
+    "x" : -477.5220833456502,
+    "y" : 115.19173063162559,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Gnome Flag",
+  "root" : false
 } ]
