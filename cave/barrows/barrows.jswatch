@@ -1,60 +1,5 @@
 [ {
-  "id" : 3852,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 3854,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 3835,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 3833,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "Cocoon",
-  "root" : false
-}, {
-  "id" : 3835,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 3839,
+  "id" : 6786,
   "rotation" : {
     "x" : 0.0,
     "y" : 0.0,
@@ -65,7 +10,7 @@
   "name" : "null",
   "root" : false
 }, {
-  "id" : 3845,
+  "id" : 6787,
   "rotation" : {
     "x" : 0.0,
     "y" : 0.0,
@@ -76,7 +21,128 @@
   "name" : "null",
   "root" : false
 }, {
-  "id" : 3842,
+  "id" : 10284,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 6767,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Standing torch",
+  "root" : false
+}, {
+  "id" : 6725,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 0,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 6744,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 0,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 6785,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 6784,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 6804,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 6807,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 6781,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 0,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 6805,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 6705,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Staircase",
+  "root" : false
+}, {
+  "id" : 6820,
   "rotation" : {
     "x" : 0.0,
     "y" : 0.0,
@@ -87,62 +153,7 @@
   "name" : "null",
   "root" : false
 }, {
-  "id" : 3838,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 3837,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 3836,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 3826,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "Stalagmite",
-  "root" : false
-}, {
-  "id" : 3825,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 10,
-  "zoom" : 555,
-  "name" : "Stalagmites",
-  "root" : false
-}, {
-  "id" : 3848,
+  "id" : 6819,
   "rotation" : {
     "x" : 0.0,
     "y" : 0.0,
@@ -153,18 +164,7 @@
   "name" : "null",
   "root" : false
 }, {
-  "id" : 3848,
-  "rotation" : {
-    "x" : 0.0,
-    "y" : 0.0,
-    "z" : 0.0
-  },
-  "type" : 22,
-  "zoom" : 555,
-  "name" : "null",
-  "root" : false
-}, {
-  "id" : 3830,
+  "id" : 6822,
   "rotation" : {
     "x" : 0.0,
     "y" : 0.0,
@@ -172,6 +172,72 @@
   },
   "type" : 10,
   "zoom" : 555,
-  "name" : "Tunnel entrance",
+  "name" : "Sarcophagus",
+  "root" : false
+}, {
+  "id" : 6816,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 6783,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 9,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 6772,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Sarcophagus",
+  "root" : false
+}, {
+  "id" : 6823,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Sarcophagus",
+  "root" : false
+}, {
+  "id" : 6771,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Sarcophagus",
+  "root" : false
+}, {
+  "id" : 6821,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Sarcophagus",
   "root" : false
 } ]
